@@ -1,4 +1,4 @@
-__package__ = "Python Basics"
+__package__ = "1. Python Basics"
 
 from typing import List
 

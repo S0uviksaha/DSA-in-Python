@@ -1,4 +1,4 @@
-__package__ = "Python Basics"
+__package__ = "1. Python Basics"
 
 class Solution:
     def countOdds(self, low: int, high: int) -> int:
